@@ -1,1 +1,2 @@
 print('second')
+print('main')
